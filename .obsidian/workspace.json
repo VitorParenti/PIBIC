@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0914d78776797131",
+        "id": "f7ef6af82022db60",
         "type": "tabs",
         "children": [
           {
-            "id": "0058b8d26ea416f0",
+            "id": "69ea669b5e508489",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -147,13 +147,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b682304e75e0693",
+  "active": "69ea669b5e508489",
   "lastOpenFiles": [
+    "Arquivos/Dias/dia 2 (30.08).md",
+    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14/Doc 2.md",
+    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14/Doc 11.md",
     "main",
     "Arquivos/Arquivos/POL 8/Cx. 25/Pc 10/Doc XX (!).md",
     "Arquivos/Arquivos/POL 8/Cx. 28/Pc 13/Doc 01.md",
-    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14/Doc 11.md",
-    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14/Doc 2.md",
     "Arquivos/Dias/dia 7 (03.10).md",
     "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14",
     "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 06.md",
@@ -167,7 +168,6 @@
     "Arquivos/Arquivos/POL 8/Cx. 28",
     "Arquivos/Dias/dia 6 (27.09).md",
     "Arquivos/Dias/dia 3(06.09).md",
-    "Arquivos/Dias/dia 2 (30.08).md",
     "Arquivos/Dias/dia 1 (20.08).md",
     "Arquivos/Dias/dia 8 (04.10).md",
     "Arquivos/Dias/dia 9 (11.10).md",
@@ -184,7 +184,6 @@
     "Arquivos/Arquivos/POL 8/Cx. 25",
     "Arquivos/Transcrições/POL 8/Cx. 19/Pc 01/Untitled",
     "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01",
-    "Arquivos/Arquivos/POL 8/Cx. 19",
     "Literatura/Untitled.canvas"
   ]
 }
