@@ -1,0 +1,1 @@
+Malheiro como exemplo de homem

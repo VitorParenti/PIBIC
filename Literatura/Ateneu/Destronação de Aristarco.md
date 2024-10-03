@@ -1,0 +1,1 @@
+Primeiramente, [[Aristarco]] é substituído por uma estátua que o representa como símbolo de masculinidade exemplo. “Com os diabos! Por que há de ser isto afinal a imortalidade: um pedaço de mármore sobre um defunto?!“.

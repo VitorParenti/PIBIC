@@ -1,0 +1,1 @@
+-”São mulheres. Apanham as migalhas da feira. São as anônimas, as fulanitas do gozo, que não gozam nunca”- Existe uma associação entre a masculinidade e o possuir. A posse da mulher é mediada pelo homem. As prostitutas estão excluídas da possibilidade de possuir na medida em que não tem um marido. Seu único contato com a posse é a partir da mediação dos clientes.
