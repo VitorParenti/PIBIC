@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ef6af82022db60",
+        "id": "295439b4a78d17ab",
         "type": "tabs",
         "children": [
           {
-            "id": "69ea669b5e508489",
+            "id": "eddec7fa7e2f3dfd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Arquivos/INVENTARIO_DO_FUNDO_CHEFIA_DE_POLICIA (1).pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arquivos/INVENTARIO_DO_FUNDO_CHEFIA_DE_POLICIA (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arquivos/INVENTARIO_DO_FUNDO_CHEFIA_DE_POLICIA (1).pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,19 +122,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "58b24293ff6a584f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {
+                "file": "Arquivos/INVENTARIO_DO_FUNDO_CHEFIA_DE_POLICIA (1).pdf"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -143,47 +141,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "69ea669b5e508489",
+  "active": "eddec7fa7e2f3dfd",
   "lastOpenFiles": [
-    "Arquivos/Dias/dia 2 (30.08).md",
-    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14/Doc 2.md",
-    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14/Doc 11.md",
-    "main",
-    "Arquivos/Arquivos/POL 8/Cx. 25/Pc 10/Doc XX (!).md",
-    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 13/Doc 01.md",
-    "Arquivos/Dias/dia 7 (03.10).md",
-    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14",
+    "Arquivos/Arquivos/POL 8/Cx.29/Pc. 18/Untitled.md",
+    "Arquivos/Arquivos/POL 8/Cx.29/Pc. 17/Resumo.md",
+    "Arquivos/Arquivos/POL 8/Cx.29/Pc. 18",
+    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 02.md",
+    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 01 (!).md",
+    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 03.md",
     "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 06.md",
     "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 05.md",
     "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 04.md",
-    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 03.md",
-    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 02.md",
-    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01/Doc 01 (!).md",
-    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 02/Doc 01.md",
-    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 13",
-    "Arquivos/Arquivos/POL 8/Cx. 28",
-    "Arquivos/Dias/dia 6 (27.09).md",
-    "Arquivos/Dias/dia 3(06.09).md",
-    "Arquivos/Dias/dia 1 (20.08).md",
-    "Arquivos/Dias/dia 8 (04.10).md",
-    "Arquivos/Dias/dia 9 (11.10).md",
+    "Arquivos/Arquivos/POL 8/Cx. 25/Pc 10/Doc 10 (!).md",
+    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14/Doc 11.md",
+    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 14/Doc 2.md",
+    "Arquivos/Arquivos/POL 8/Cx. 28/Pc 13/Doc 01.md",
     "Arquivos/INVENTARIO_DO_FUNDO_CHEFIA_DE_POLICIA (1).pdf",
-    "Arquivos/Dias/dia 5 (26.09).md",
-    "Arquivos/Dias/dia 4 (13.09).md",
-    "Literatura/Ateneu/A vitória de Sérgio.md",
-    "Literatura/Dom Casmurro/Capitu.md",
-    "Literatura/Dom Casmurro/Bentinho.md",
+    "Projeto.pdf",
+    "Arquivos/Dias/dia 10 (18.10).md",
+    "Arquivos/Arquivos/POL 8/Cx.29/Pc. 17",
+    "Arquivos/Arquivos/POL 8/Cx.29",
+    "Arquivos/Dias/dia 8 (04.10).md",
+    "Z-Documentos teóricos/Miguel Vale de Almeida.pdf",
+    "Z-Slides da semana C&T/roteiro/Slide 3.md",
+    "Z-Slides da semana C&T/roteiro/Slide 4.md",
+    "Z-Slides da semana C&T/Slide 4-Masculinidade e processo civilizatório.md",
+    "Z-Slides da semana C&T/Slide 2-Objetivos do projeto.md",
+    "Z-Documentos teóricos/O Desejo da nação Masculinidade e branquitudo no Brasil de fins do XIX.pdf",
+    "Z-Slides da semana C&T/roteiro",
+    "Z-Slides da semana C&T/Untitled.canvas",
+    "Z-Slides da semana C&T/Slide 3-Metodologia do trabalho.md",
+    "Z-Slides da semana C&T/Slide 7-Exemplos das fontes a partir dos três pontos apresentados no slide 6.md",
+    "Z-Slides da semana C&T/Slide 6-Masculinidade e relações de poder.md",
     "Literatura/Ateneu/Panóptico.md",
-    "Literatura/Ateneu/Aristarco.md",
-    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 02",
-    "Arquivos/Arquivos/POL 8/Cx. 25/Pc 10",
-    "Arquivos/Arquivos/POL 8/Cx. 25",
-    "Arquivos/Transcrições/POL 8/Cx. 19/Pc 01/Untitled",
-    "Arquivos/Arquivos/POL 8/Cx. 19/Pc 01",
+    "Z-Slides da semana C&T/Estrutura dos slides[1].pdf",
+    "Arquivos/Dias/dia 9 (11.10).md",
+    "Arquivos/Arquivos/POL 9/Cx. 01/Doc 202.md",
+    "Arquivos/Arquivos/POL 9/Cx. 01/Doc 197.md",
+    "Arquivos/Arquivos/POL 9/Cx. 01/Untitled",
+    "Literatura/Ateneu/Relação passivo-ativo.md",
     "Literatura/Untitled.canvas"
   ]
 }
